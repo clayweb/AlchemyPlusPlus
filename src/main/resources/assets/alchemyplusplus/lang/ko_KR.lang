@@ -3,16 +3,16 @@ language.name=한국어
 language.region=KR
 language.code=ko_KR
 
-tile.fleshBlock.name=Block of Flesh
-tile.potionJug.name=Potion Jug
-tile.diffuser.name=Diffuser
-tile.distillery.name=Distillery
-tile.liquidMixer.name=Liquid Mixer
+tile.fleshBlock.name=고기 블록
+tile.potionJug.name=포션 주전자
+tile.diffuser.name=방향제
+tile.distillery.name=증류장치
+tile.liquidMixer.name=교반기
 
-item.confusionPotion.name=Confusion Potion
-item.fishOil.name=Fish Oil
-item.ironPowder.name=Iron Powder
+item.confusionPotion.name=혼란의 포션
+item.fishOil.name=물고기 기름
+item.ironPowder.name=철가루
 item.mixingFilter.name=Mixing Filter
 item.springyCord.name=Springy Cord
-item.squidEye.name=Squid Eye
+item.squidEye.name=오징어 눈
 item.woodAlcohol.name=Wood Alcohol
